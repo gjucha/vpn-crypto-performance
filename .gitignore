@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Office temp/lock files
+~$*
+
+# Local secrets / credentials (never commit real router logins)
+*.env
+secrets.*
+credentials.*
+
+# GNS3 runtime artefacts
+*.ghost
+project-files/

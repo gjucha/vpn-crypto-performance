@@ -1,0 +1,4 @@
+# Runtime dependency for the VPN configuration tool (src/vpn_tool/)
+# tkinter ships with the standard CPython installer on Windows/macOS.
+# On Debian/Ubuntu install it separately:  sudo apt install python3-tk
+paramiko>=3.0
