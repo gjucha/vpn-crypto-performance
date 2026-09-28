@@ -250,12 +250,11 @@ Read the peer-reviewed paper on **[IEEE Xplore](https://ieeexplore.ieee.org/docu
 The complete final-year dissertation is not published in this repository.
 
 ## Author
-
 **Grzegorz Tomasz Jucha** — School of Computing and Engineering, University of West London.
 
-Supervised by **Dr Abel Yeboah-Ofori**.
+## Contributor 
+**Dr Abel Yeboah-Ofori** — School of Computing and Engineering, University of West London.
 
 ## License
-
 Released under the [MIT License](LICENSE). Cisco IOS images and any third-party
 tools referenced here remain under their own respective licences.
